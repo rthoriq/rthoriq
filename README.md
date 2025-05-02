@@ -11,9 +11,11 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/fwt6rj18zxgugukdrgyg025hx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fwt6rj18zxgugukdrgyg025hx&count=9&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fwt6rj18zxgugukdrgyg025hx&count=10&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 ###
 
@@ -37,6 +39,13 @@
 ## 🎮 Mini Games:
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rthoriq/rthoriq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rthoriq/rthoriq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rthoriq/rthoriq/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <img src="https://raw.githubusercontent.com/rthoriq/rthoriq/output/snake.svg" alt="Snake animation" />
 
 ###
