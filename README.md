@@ -1,12 +1,21 @@
 ## Halo Semuanya!!😇😇😘
 
 ![Hi](https://i.pinimg.com/originals/6a/23/30/6a2330e2ed77ec9df2075b222e5aa87f.gif)
+
 <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="500" />
 
 ## 💫 About Me:
 🏢 Studying at Institut Teknologi BJ Habibie.<br>🍜 I like to eat Mie Gacoan😘<br>👨‍💻 Am i a Programmer ?<br>🎤 I'd like to hear One Direction Songs.<br>💬 Teach Me how to became a good Programmer.<br>😹 Aoa cona.<br>🚪Im leave.<br><br><br><br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fwt6rj18zxgugukdrgyg025hx&unique={true|1|on|yes})
+## 🎶 My Spotify:
+
+<div align="center">
+  <a href="https://open.spotify.com/user/fwt6rj18zxgugukdrgyg025hx">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fwt6rj18zxgugukdrgyg025hx&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ## 🌐 Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aRjMTVM5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rthoriq_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-thoriq-723231333/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rthoriq_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moordgg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanalif145@gmail.com) 
@@ -23,16 +32,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rthoriq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rthoriq&icon=4&color=13)](https://visitcount.itsvg.in)
-
 ## 🎮 Mini Games:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rthoriq/rthoriq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rthoriq/rthoriq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rthoriq/rthoriq/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <img src="https://raw.githubusercontent.com/rthoriq/rthoriq/output/snake.svg" alt="Snake animation" />
