@@ -1,10 +1,14 @@
 ## Halo Semuanya!!😇😇😘
 
-![Hi](https://i.pinimg.com/originals/6a/23/30/6a2330e2ed77ec9df2075b222e5aa87f.gif)
 
-<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="500" />
+<div align="center">
+<img src="https://i.pinimg.com/originals/6a/23/30/6a2330e2ed77ec9df2075b222e5aa87f.gif" width="700" />
+<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="700" />
+</div>
+
 
 ## 💫 About Me:
+
 🏢 Studying at Institut Teknologi BJ Habibie.<br>🍜 I like to eat Mie Gacoan😘<br>👨‍💻 Am i a Programmer ?<br>🎤 I'd like to hear One Direction Songs.<br>💬 Teach Me how to became a good Programmer.<br>😹 Aoa cona.<br>🚪Im leave.<br><br><br><br>
 
 ## 🎶 My Spotify:
