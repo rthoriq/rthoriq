@@ -6,6 +6,7 @@
 ## 💫 About Me:
 🏢 Studying at Institut Teknologi BJ Habibie.<br>🍜 I like to eat Mie Gacoan😘<br>👨‍💻 Am i a Programmer ?<br>🎤 I'd like to hear One Direction Songs.<br>💬 Teach Me how to became a good Programmer.<br>😹 Aoa cona.<br>🚪Im leave.<br><br><br><br>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fwt6rj18zxgugukdrgyg025hx&unique={true|1|on|yes})
 
 ## 🌐 Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aRjMTVM5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rthoriq_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-thoriq-723231333/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rthoriq_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moordgg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihanalif145@gmail.com) 
