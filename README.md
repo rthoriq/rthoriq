@@ -1,11 +1,18 @@
-## Halo Semuanya!!😇😇😘
-
+<div align="center">
+<h2> Halo Semuanya!!😇😇😘
+</div>
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/6a/23/30/6a2330e2ed77ec9df2075b222e5aa87f.gif" width="700" />
 <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="700" />
 </div>
 
+<div align="center">
+  <h2>⬇️Total Kunjungan⬇️</h2>
+  <img src="https://profile-counter.glitch.me/rthoriq/count.svg?"  />
+</div>
+
+###
 
 ## 💫 About Me:
 
