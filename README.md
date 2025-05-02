@@ -16,7 +16,7 @@
 
 ## 💫 About Me:
 
-🏢 Studying at Institut Teknologi BJ Habibie.<br>🍜 I like to eat Mie Gacoan😘<br>👨‍💻 Am i a Programmer ?<br>🎤 I'd like to hear One Direction Songs.<br>💬 Teach Me how to became a good Programmer.<br>😹 Aoa cona.<br>🚪Im leave.<br><br><br><br>
+🏢 Studying at Institut Teknologi BJ Habibie.<br>🍜 I like to eat Mie Gacoan😘<br>👨‍💻 Am i a Programmer ?<br>🎤 I'd like to hear One Direction Songs.<br>💬 Teach Me how to became a good Programmer.<br>😹 Aoa cona.<br>🚪Im leave.<br>
 
 ## 🎶 My Spotify:
 
